@@ -16,7 +16,35 @@ List foods = [
     imgPath: 'assets/pasta.png',
   ),
   Food(
-    name: 'stake',
+    name: 'Stake',
     imgPath: 'assets/stake.png',
+  ),
+  Food(
+    name: 'Baryani',
+    imgPath: 'assets/baryani.png',
+  ),
+  Food(
+    name: 'Taco',
+    imgPath: 'assets/taco.png',
+  ),
+  Food(
+    name: 'Sushi',
+    imgPath: 'assets/sushi.png',
+  ),
+  Food(
+    name: 'Sushi',
+    imgPath: 'assets/sushi.png',
+  ),
+  Food(
+    name: 'Sushi',
+    imgPath: 'assets/sushi.png',
+  ),
+  Food(
+    name: 'Sushi',
+    imgPath: 'assets/sushi.png',
+  ),
+  Food(
+    name: 'Sushi',
+    imgPath: 'assets/sushi.png',
   ),
 ];
